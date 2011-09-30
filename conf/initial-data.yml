@@ -1,0 +1,8 @@
+User(bob):
+  email: bob@gmail.com
+  fullname: Bob Clark
+  isAdmin: false
+User(joe):
+  email: joe@gmail.com
+  fullname: Joe Smith 
+  isAdmin: false
